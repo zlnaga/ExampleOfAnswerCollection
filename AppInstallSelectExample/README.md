@@ -1,0 +1,1 @@
+This is an example for [https://stackoverflow.com/questions/57687736/is-there-any-event-or-callback-to-find-an-application-installation-process-succe] 
